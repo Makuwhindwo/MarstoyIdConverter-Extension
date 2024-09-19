@@ -1,7 +1,7 @@
 // Wrap the entire script in an IIFE to avoid redeclaring variables on multiple runs
 (function() {
     // Hardcoded API key
-    const apiKey = 'YOUR-API-KEY-FROM-REBRICKABLE'; // Replace with your actual API key
+    const apiKey = '05f3af20e9a10fede7f23d7e786225bb'; // Replace with your actual API key
 
     // Debugging flag
     const debugMode = false; // Set to false to disable debugging logs
